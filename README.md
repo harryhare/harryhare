@@ -5,6 +5,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=harryhare&show_icons=true" />
 </a>
 
+<br/>
+<br/>
+
 - 👋 Hi, I’m @harryhare
 - 👀 I’m interested in money
 - 🌱 I’m currently learning how to make money
