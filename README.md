@@ -1,3 +1,10 @@
+
+<!---![harryhare's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryhare&show_icons=true)--->
+
+<a href="https://github.com/harryhare">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=harryhare&show_icons=true" />
+</a>
+
 - 👋 Hi, I’m @harryhare
 - 👀 I’m interested in money
 - 🌱 I’m currently learning how to make money
