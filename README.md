@@ -9,9 +9,9 @@
 <br/>
 
 - 👋 Hi, I’m @harryhare
-- 👀 I’m interested in money
-- 🌱 I’m currently learning how to make money
-- 💞️ I’m looking to collaborate on making money
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning how to ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: harryhare@163.com
 
 <!---
